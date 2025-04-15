@@ -1,0 +1,14 @@
+POST /api/users/login 403 43 - 121.125 ms
+GET /api/cards 429 54 - 0.413 ms
+GET /api/cards/67ebb798db626a46b68518f0 404 18 - 112.988 ms
+GET /api/cards/67ebb798db626a46b68518f0 404 18 - 112.733 ms
+GET /api/cards/67ebb798db626a46b68518f0 404 18 - 111.639 ms
+PATCH /api/cards/67f3cdc7b523ef66396350c2 404 14 - 224.844 ms
+PATCH /api/cards/67f3cdc7b523ef66396350c2 404 14 - 225.783 ms
+PUT /api/cards/67f3cdc7b523ef66396350c2 400 34 - 116.038 ms
+PUT /api/cards/67f3cdc7b523ef66396350c2 400 34 - 220.170 ms
+PUT /api/cards/67f3cdc7b523ef66396350c2 400 32 - 132.295 ms
+PUT /api/cards/67f3cdc7b523ef66396350c2 400 34 - 133.134 ms
+PATCH /api/cards/biz-number/67f3cdc7b523ef66396350c2 400 53 - 2.151 ms
+DELETE /api/cards/67ea536777a7147ca7505d3a 404 14 - 113.963 ms
+GET /api/cards/67f3cdc7b523ef66396350c2 404 18 - 111.861 ms
